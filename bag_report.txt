@@ -1,0 +1,13 @@
+Bug report:
+title
+bug_ID
+reported_by
+severity
+priority
+environment
+summary
+preconditions
+steps_to_reproduce
+expected_result
+actual_result
+
