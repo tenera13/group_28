@@ -1,8 +1,9 @@
 Checklist:
 
-test
-status
-bag report link
-date
-created by
+1.test
+2.status
+3.bag report link
+4.date
+5.created by
+
 
